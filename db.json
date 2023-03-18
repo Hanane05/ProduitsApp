@@ -1,0 +1,25 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "Sofa Set",
+      "description": "description du Sofa set",
+      "prix": "20,000",
+      "categorie": "Furniture"
+    },
+    {
+      "id": 2,
+      "nom": "Microwave",
+      "description": "Description du microwave",
+      "prix": "10,000",
+      "categorie": "Home Appliance"
+    },
+    {
+      "id": 3,
+      "nom": "Air Fryer",
+      "description": "Description du Air Fryer",
+      "prix": "5,500",
+      "categorie": "Home Appliance"
+    }
+  ]
+}
